@@ -11,7 +11,7 @@
 
 # [- + santa monica - edit](https://github.com/uby2b/osuskins/raw/refs/heads/main/skins/-%20+%20santa%20monica%20-%20edit.osk)
 ![](https://github.com/user-attachments/assets/5914300c-ee4b-4f51-a4f2-96a22cb46b77)
-<details><summary></summary>created by morgan, my favourite skin looks wise</details>
+<details><summary></summary>created by morgan, my favourite skin looks wise. i edited it to have blank hitcircles instead of numbers</details>
 
 
 
