@@ -1,11 +1,11 @@
 # osuskins
-<p align="center">
+
   skins i use(d)
   
   i changed hitsounds and cursor on most of them
   
   updated dec 15 2025
-</p>
+
 
 # [uby mapping](https://github.com/uby2b/osuskins/raw/refs/heads/main/skins/uby%20mapping.osk)
 ![](https://github.com/user-attachments/assets/b817fdaf-c3b0-4aec-b385-54234bb0f6bf)
