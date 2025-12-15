@@ -3,7 +3,7 @@
   skins i use(d)
   
   i changed hitsounds and cursor on most of them
-  <br>
+  
   updated dec 15 2025
 </p>
 
