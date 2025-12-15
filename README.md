@@ -5,6 +5,7 @@
   i changed hitsounds and cursor on some of them
   
   updated dec 15 2025
+  working on screenshots
 
 
 # [uby mapping](https://github.com/uby2b/osuskins/raw/refs/heads/main/skins/uby%20mapping.osk)
