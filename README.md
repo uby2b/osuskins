@@ -2,7 +2,7 @@
 <p align="center">
   skins i use(d)
   <br>
-  last updated dec 15 2025
+  updated dec 15 2025
 </p>
 
 # [uby mapping](https://github.com/uby2b/osuskins/raw/refs/heads/main/skins/uby%20mapping.osk)
