@@ -2,7 +2,7 @@
 
   skins i use(d)
   
-  i changed hitsounds and cursor on most of them
+  i changed hitsounds and cursor on some of them
   
   updated dec 15 2025
 
