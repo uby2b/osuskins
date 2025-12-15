@@ -1,6 +1,9 @@
 # osuskins
-skins i use(d)
-
+<p align="center">
+  skins i use(d)
+  <br>
+  last updated dec 15 2025
+</p>
 
 # [uby mapping](https://github.com/uby2b/osuskins/raw/refs/heads/main/uby%20mapping.osk)
 [![](https://github.com/user-attachments/assets/b817fdaf-c3b0-4aec-b385-54234bb0f6bf)
@@ -8,4 +11,3 @@ skins i use(d)
 
 
 
-<img width="1920" height="1056" alt="screenshot118" src="https://github.com/user-attachments/assets/b817fdaf-c3b0-4aec-b385-54234bb0f6bf" />
