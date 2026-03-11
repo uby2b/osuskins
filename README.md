@@ -40,6 +40,9 @@
 ![](@)
 <details><summary></summary>@</details>
 
+# [-# uby](https://github.com/uby2b/osuskins/raw/refs/heads/main/skins/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23uby.osk)
+![](@)
+<details><summary></summary>skin ive been working on 2025-2026</details>
 
 
 
