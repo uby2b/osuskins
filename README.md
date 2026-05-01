@@ -8,7 +8,7 @@
   working on screenshots
 
 # [-# uby](https://github.com/uby2b/osuskins/raw/refs/heads/main/skins/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23uby.osk)
-![](@)
+![](https://github.com/user-attachments/assets/447a5cae-82b4-449f-99ad-b0fa25024877)
 <details><summary></summary>skin ive been working on 2025-2026</details>
 
 # [uby mapping](https://github.com/uby2b/osuskins/raw/refs/heads/main/skins/uby%20mapping.osk)
