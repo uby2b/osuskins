@@ -9,7 +9,9 @@
 
 # [-# uby](https://github.com/uby2b/osuskins/raw/refs/heads/main/skins/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23uby.osk)
 ![](https://github.com/user-attachments/assets/447a5cae-82b4-449f-99ad-b0fa25024877)
-<details><summary></summary>skin ive been working on 2025-2026</details>
+<details><summary>more screenshots</summary>skin ive been working on 2025-2026
+  
+![](https://github.com/user-attachments/assets/91748adf-5d57-4653-a9ea-2277d9ed88d4)</details>
 
 # [uby mapping](https://github.com/uby2b/osuskins/raw/refs/heads/main/skins/uby%20mapping.osk)
 ![](https://github.com/user-attachments/assets/b817fdaf-c3b0-4aec-b385-54234bb0f6bf)
